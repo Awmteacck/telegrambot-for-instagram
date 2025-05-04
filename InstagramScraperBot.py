@@ -15,7 +15,7 @@ from telegram.error import (
     NetworkError,
 )
 
-token = "YOUR TOKEN HERE"
+token = "7175703585:AAG-MyrcQ4623qPoB6KjKI8UGj35r0pxOes"
 options = Options()
 
 # options.add_argument("--headless")            Uncomment Code after loging to Your Instagram
